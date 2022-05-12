@@ -1,23 +1,23 @@
 baseURL = "https://hbapat.github.io/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Personal Website - Harshavardhan Bapat"
 theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
     name = "Harshavardhan Bapat"
-    description = "A mystery person"
+    description = "Finance, football and a bit of everything else"
     email = "harshavardhan.bapat@gmail.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
+    phone = "+1-248-854-1232"
+    address = "414 W 44th St, #4C, New York, NY 10036"
+    year = 2022
     avatar = "images/guy.jpg"
     avatarclass = "circle"
     background = ""
     banner = "images/bg_head.jpg"
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+    DateForm = "May 12, 2022"
+    author = "Harshavardhan Bapat"
 
     showSubheader = true
     showServices = true
