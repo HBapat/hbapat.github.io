@@ -1,6 +1,6 @@
 baseURL = "https://hbapat.github.io/"
 languageCode = "en"
-title = "Personal Website - Harshavardhan Bapat"
+title = "Harshavardhan Bapat"
 theme = "hugo-initio"
 publishDir = "docs"
 
@@ -51,32 +51,18 @@ publishDir = "docs"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://www.facebook.com/harshavardhan.bapat.5/"
     icon = "fab fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/nickname"
-    icon = "fab fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
 	title = "instagram"
-	url = "https://www.instagram.com/nickname"
+	url = "https://www.instagram.com/thebapat/"
     icon = "fab fa-instagram"
     footer = true
     sharethis = false
     network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fab fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/nickname"
@@ -85,22 +71,15 @@ publishDir = "docs"
     sharethis = true
     network = "linkedin"
 [[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fab fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/HBapat"
     icon = "fab fa-github"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:harshavardhan.bapat@gmail.com"
     icon = "fas fa-envelope-square"
     footer = false
     sharethis = true
