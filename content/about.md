@@ -5,12 +5,11 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 
-### Necessitatibus
+### Hi, I'm Harsha, nice to meet you. 
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+I am a financial engineering graduate student at Cornell University. I am from Pune, India, and currently reside in New York City. 
 
-### Fugit, laboriosam
+Professionally, I am interested in all things finance, from traditional industry analysis and company valuation to crypto and DeFi. I am curious about developments in tech and their implications to the financial markets, and am fascinated by astronomy and space travel. 
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+On a personal note, I am passionate about football (soccer), I enjoy playing in my free time and support the club Manchester United. I also follow Formula 1, and most other sports to some extent. I am an avid reader of fiction and non-fiction, I thoroughly enjoy learning about history, and I write poems when the inspiration strikes. I enjoy traveling and hiking, and hope to see as much as I can of this beautiful world!

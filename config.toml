@@ -5,39 +5,43 @@ theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Harshavardhan Bapat"
+    name = "Harsha Bapat"
     description = "Finance, football and a bit of everything else"
     email = "harshavardhan.bapat@gmail.com"
     phone = "+1-248-854-1232"
     address = "414 W 44th St, #4C, New York, NY 10036"
     year = 2022
-    avatar = "images/guy.jpg"
+    avatar = "/images/me6.jpeg"
     avatarclass = "circle"
     background = ""
-    banner = "images/bg_head.jpg"
-    favicon = "images/gt_favicon.png"
+    banner = "/images/me4.jpeg"
+    favicon = "/images/me2.jpeg"
     DateForm = "May 12, 2022"
     author = "Harshavardhan Bapat"
 
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showDownloads = false
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
-    url = "/post/"
+    name= "Resume"
+    url="/files/resume.pdf"
     weight = 5
+[[menu.main]]
+    name= "Poetry"
+    url="/poetry/"
+    weight = 6 
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
@@ -65,9 +69,9 @@ publishDir = "docs"
     network = ""
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/harshavardhan-bapat/"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]

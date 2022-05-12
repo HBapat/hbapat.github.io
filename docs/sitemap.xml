@@ -2,11 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hbapat.github.io/home/projects/</loc>
+  </url><url>
+    <loc>https://hbapat.github.io/projects/</loc>
+  </url><url>
+    <loc>https://hbapat.github.io/poetry/</loc>
+    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hbapat.github.io/about/</loc>
+  </url><url>
+    <loc>https://hbapat.github.io/poetry/service1/</loc>
+    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbapat.github.io/</loc>
+    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbapat.github.io/poetry/service2/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbapat.github.io/poetry/service3/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbapat.github.io/poetry/service4/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbapat.github.io/poetry/service5/</loc>
+    <lastmod>2015-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbapat.github.io/home/subheader/</loc>
+  </url><url>
+    <loc>https://hbapat.github.io/home/services/service3/</loc>
   </url><url>
     <loc>https://hbapat.github.io/categories/</loc>
   </url><url>
-    <loc>https://hbapat.github.io/</loc>
+    <loc>https://hbapat.github.io/home/services/service4/</loc>
+  </url><url>
+    <loc>https://hbapat.github.io/home/</loc>
+  </url><url>
+    <loc>https://hbapat.github.io/home/services/service2/</loc>
   </url><url>
     <loc>https://hbapat.github.io/tags/</loc>
   </url>

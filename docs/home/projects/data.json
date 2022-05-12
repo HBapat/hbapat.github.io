@@ -1,0 +1,43 @@
+[
+    {
+        "id": 0,
+        "name": "Oil Price Prediction using Machine Learning",
+        "image": "/images/oil.jpg",
+        "url": "/files/oilpricepred.pdf",
+        "items": [
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Sovereign CDS Spread modeling using Machine Learning",
+        "image": "/images/brics.jpeg",
+        "url": "/files/sovcds.pdf",
+        "items": [
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Monetary Policy Transmission - Balance Sheet Channel in India",
+        "image": "/images/monetary.jpeg",
+        "url": "/files/monetary.pdf",
+        "items": [
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Financial Signal Processing",
+        "image": "/images/signal.jpeg",
+        "url": "/files/fsp.pdf",
+        "items": [
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bond Portfolio Optimization",
+        "image": "/images/bonds.gif",
+        "url": "#",
+        "items": [
+           
+        ]
+    }
+]
